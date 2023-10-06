@@ -1,0 +1,8 @@
+# frontend output
+/public/js
+
+# dev env
+.lsp
+.clj-kondo
+.cpcache
+.shadow-cljs
