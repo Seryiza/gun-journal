@@ -1,6 +1,9 @@
 # frontend output
 /public/js
 
+# dependencies
+/node_modules
+
 # dev env
 .lsp
 .clj-kondo
